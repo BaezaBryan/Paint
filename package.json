@@ -1,0 +1,14 @@
+{
+  "name": "pintores",
+  "version": "1.0.0",
+  "description": "paguina web estica de pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Baeza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
